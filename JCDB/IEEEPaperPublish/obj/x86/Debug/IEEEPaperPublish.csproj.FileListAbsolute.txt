@@ -1,0 +1,48 @@
+E:\doc\New folder\IEEEPaperPublish\IEEEPaperPublish\bin\Debug\IEEEPaperPublish.exe
+E:\doc\New folder\IEEEPaperPublish\IEEEPaperPublish\bin\Debug\IEEEPaperPublish.pdb
+E:\doc\New folder\IEEEPaperPublish\IEEEPaperPublish\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\doc\New folder\IEEEPaperPublish\IEEEPaperPublish\obj\x86\Debug\IEEEPaperPublish.FrmLogin.resources
+E:\doc\New folder\IEEEPaperPublish\IEEEPaperPublish\obj\x86\Debug\IEEEPaperPublish.FrmShowUploadedDocs.resources
+E:\doc\New folder\IEEEPaperPublish\IEEEPaperPublish\obj\x86\Debug\IEEEPaperPublish.FrmUploadDoc.resources
+E:\doc\New folder\IEEEPaperPublish\IEEEPaperPublish\obj\x86\Debug\IEEEPaperPublish.MDIParent1.resources
+E:\doc\New folder\IEEEPaperPublish\IEEEPaperPublish\obj\x86\Debug\IEEEPaperPublish.Properties.Resources.resources
+E:\doc\New folder\IEEEPaperPublish\IEEEPaperPublish\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\doc\New folder\IEEEPaperPublish\IEEEPaperPublish\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\doc\New folder\IEEEPaperPublish\IEEEPaperPublish\obj\x86\Debug\IEEEPaperPublish.exe
+E:\doc\New folder\IEEEPaperPublish\IEEEPaperPublish\obj\x86\Debug\IEEEPaperPublish.pdb
+D:\prakash kadam\IEEEPaperPublish\IEEEPaperPublish\obj\x86\Debug\IEEEPaperPublish.exe
+D:\prakash kadam\IEEEPaperPublish\IEEEPaperPublish\obj\x86\Debug\IEEEPaperPublish.pdb
+D:\prakash kadam\IEEEPaperPublish\IEEEPaperPublish\bin\Debug\IEEEPaperPublish.exe
+D:\prakash kadam\IEEEPaperPublish\IEEEPaperPublish\bin\Debug\IEEEPaperPublish.pdb
+D:\prakash kadam\IEEEPaperPublish\IEEEPaperPublish\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\prakash kadam\IEEEPaperPublish\IEEEPaperPublish\obj\x86\Debug\IEEEPaperPublish.FrmLogin.resources
+D:\prakash kadam\IEEEPaperPublish\IEEEPaperPublish\obj\x86\Debug\IEEEPaperPublish.FrmShowUploadedDocs.resources
+D:\prakash kadam\IEEEPaperPublish\IEEEPaperPublish\obj\x86\Debug\IEEEPaperPublish.FrmUploadDoc.resources
+D:\prakash kadam\IEEEPaperPublish\IEEEPaperPublish\obj\x86\Debug\IEEEPaperPublish.MDIParent1.resources
+D:\prakash kadam\IEEEPaperPublish\IEEEPaperPublish\obj\x86\Debug\IEEEPaperPublish.Properties.Resources.resources
+D:\prakash kadam\IEEEPaperPublish\IEEEPaperPublish\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\prakash kadam\IEEEPaperPublish\IEEEPaperPublish\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\prakash kadam\latest\IEEEPaperPublish\IEEEPaperPublish\obj\x86\Debug\IEEEPaperPublish.exe
+D:\prakash kadam\latest\IEEEPaperPublish\IEEEPaperPublish\obj\x86\Debug\IEEEPaperPublish.pdb
+D:\prakash kadam\latest\IEEEPaperPublish\IEEEPaperPublish\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\prakash kadam\latest\IEEEPaperPublish\IEEEPaperPublish\obj\x86\Debug\IEEEPaperPublish.FrmLogin.resources
+D:\prakash kadam\latest\IEEEPaperPublish\IEEEPaperPublish\obj\x86\Debug\IEEEPaperPublish.FrmShowUploadedDocs.resources
+D:\prakash kadam\latest\IEEEPaperPublish\IEEEPaperPublish\obj\x86\Debug\IEEEPaperPublish.FrmUploadDoc.resources
+D:\prakash kadam\latest\IEEEPaperPublish\IEEEPaperPublish\obj\x86\Debug\IEEEPaperPublish.MDIParent1.resources
+D:\prakash kadam\latest\IEEEPaperPublish\IEEEPaperPublish\obj\x86\Debug\IEEEPaperPublish.Properties.Resources.resources
+D:\prakash kadam\latest\IEEEPaperPublish\IEEEPaperPublish\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\prakash kadam\latest\IEEEPaperPublish\IEEEPaperPublish\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\prakash kadam\latest\IEEEPaperPublish\IEEEPaperPublish\bin\Debug\IEEEPaperPublish.exe
+D:\prakash kadam\latest\IEEEPaperPublish\IEEEPaperPublish\bin\Debug\IEEEPaperPublish.pdb
+E:\latest\IEEEPaperPublish\IEEEPaperPublish\obj\x86\Debug\IEEEPaperPublish.exe
+E:\latest\IEEEPaperPublish\IEEEPaperPublish\obj\x86\Debug\IEEEPaperPublish.pdb
+E:\latest\IEEEPaperPublish\IEEEPaperPublish\bin\Debug\IEEEPaperPublish.exe
+E:\latest\IEEEPaperPublish\IEEEPaperPublish\bin\Debug\IEEEPaperPublish.pdb
+E:\latest\IEEEPaperPublish\IEEEPaperPublish\obj\x86\Debug\IEEEPaperPublish.csprojResolveAssemblyReference.cache
+E:\latest\IEEEPaperPublish\IEEEPaperPublish\obj\x86\Debug\IEEEPaperPublish.FrmLogin.resources
+E:\latest\IEEEPaperPublish\IEEEPaperPublish\obj\x86\Debug\IEEEPaperPublish.FrmShowUploadedDocs.resources
+E:\latest\IEEEPaperPublish\IEEEPaperPublish\obj\x86\Debug\IEEEPaperPublish.FrmUploadDoc.resources
+E:\latest\IEEEPaperPublish\IEEEPaperPublish\obj\x86\Debug\IEEEPaperPublish.MDIParent1.resources
+E:\latest\IEEEPaperPublish\IEEEPaperPublish\obj\x86\Debug\IEEEPaperPublish.Properties.Resources.resources
+E:\latest\IEEEPaperPublish\IEEEPaperPublish\obj\x86\Debug\IEEEPaperPublish.csproj.GenerateResource.Cache
+E:\latest\IEEEPaperPublish\IEEEPaperPublish\obj\x86\Debug\IEEEPaperPublish.ConferenceUpload.resources
